@@ -1,4 +1,6 @@
-<img src="/gif.gif" alt="Hello world">
+<p align="center">
+  <img src="/gif.gif" alt="Hello world">
+ </p>
 
 <p align="center"> 
   Visitor count<br>
