@@ -14,10 +14,10 @@ I have a passion for computer science and all of its fields. I also have a stron
 During my free time, I love to code, go to the gym, play sports and learn new things!
 
 ## Get in touch :coffee:
-- My newly updated [Website](https://yair.ca).
-- My [Devpost](https://devpost.com/yair-k) profile.
-- My [LinkedIn](https://www.linkedin.com/in/yairkorok/).
-- And of course GitHub which you're already on (*Recursion*).
+- My newly updated [Website](https://yair.ca). </br>
+- My [Devpost](https://devpost.com/yair-k) profile.</br>
+- My [LinkedIn](https://www.linkedin.com/in/yairkorok/).</br>
+- And of course GitHub which you're already on (*Recursion*).</br>
 
 
 <!--
