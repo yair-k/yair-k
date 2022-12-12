@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./best.gif" width="100%" height="100%"/>
+  <img src="./real.gif" width="100%" height="100%"/>
  </p>
 
 <p align="center"> 
@@ -11,13 +11,15 @@
 
 ## About Me! 🛹
 
-Hi, i'm Yair. I am a high school student-athlete in Toronto, Canada. I have a passion for computer science and all of its fields. I also have a strong knack for for visual design and hardware engineering. During my free time, I love to code, go to the gym, play sports and learn new things!
+Hi, i'm Yair. I am a high school student-athlete in Toronto, Canada. 
+I have a passion for computer science and all of its fields. I also have a strong knack for for visual design and hardware engineering. 
+During my free time, I love to code, go to the gym, play sports and learn new things!
 
 ## Get in touch :coffee:
-- My newly updated [Website](https://twitter.com/viradiya_sagar).
-- Your future life savior :stuck_out_tongue: on [Medium](https://medium.com/@sagarviradiya).
-- Your future employee on [LinkedIn](https://www.linkedin.com/in/sagarviradiya)
-- And of course GitHub you're already on (Recursion).
+- My newly updated [Website](https://yair.ca).
+- My [Devpost](https://devpost.com/yair-k) profile.
+- My [LinkedIn](https://www.linkedin.com/in/yairkorok/).
+- And of course GitHub which you're already on (*Recursion*).
 
 
 <!--
