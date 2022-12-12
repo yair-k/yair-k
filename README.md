@@ -9,8 +9,6 @@
 
 # Hey there :wave:
 
-## About Me! 🛹
-
 Hi, i'm Yair. I am a high school student-athlete in Toronto, Canada. 
 I have a passion for computer science and all of its fields. I also have a strong knack for for visual design and hardware engineering. 
 During my free time, I love to code, go to the gym, play sports and learn new things!
