@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./gif.gif" width="100%" height="100%"/>
+  <img src="./best.gif" width="100%" height="100%"/>
  </p>
 
 <p align="center"> 
@@ -9,21 +9,12 @@
 
 # Hey there :wave:
 
-## About me
+## About Me! 🛹
 
-I'm Sagar Viradiya. A Google Developer Expert on Android. An Android Engineer at [DeliveryHero](https://www.deliveryhero.com/) and also Co-organizer of [GDG MAD](https://gdgmad.com/) (Mumbai). Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
-
-I ocassionally blog and tweet about android. Also open sourced few android related stuff.  
-
-
-## Things I am passionate about
-
-- Android :robot:
-- Open source :octocat:
+Hi, i'm Yair. I am a high school student-athlete in Toronto, Canada. I have a passion for computer science and all of its fields. I also have a strong knack for for visual design and hardware engineering. During my free time, I love to code, go to the gym, play sports and learn new things!
 
 ## Get in touch :coffee:
-
-- Your future buddy to discuss Android related things and tech in general on [Twitter](https://twitter.com/viradiya_sagar).
+- My newly updated [Website](https://twitter.com/viradiya_sagar).
 - Your future life savior :stuck_out_tongue: on [Medium](https://medium.com/@sagarviradiya).
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/sagarviradiya)
 - And of course GitHub you're already on (Recursion).
